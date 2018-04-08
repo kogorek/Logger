@@ -1,0 +1,3 @@
+Simple logger class.
+Supports log formating, filename formating, writing to a single file and/or console.
+Should be refactored someday.
